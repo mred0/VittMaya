@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>638694817445-mcapueb0b5b1fvrsl2k8qvha9htslppm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.638694817445-mcapueb0b5b1fvrsl2k8qvha9htslppm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnD79jgZetX-W9IMo2qMhfpmLlcCNjpg4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>638694817445</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vittamaya</string>
+	<key>PROJECT_ID</key>
+	<string>vitmaya</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vitmaya.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:638694817445:ios:aeead19b2c6cba5f59574c</string>
+</dict>
+</plist>

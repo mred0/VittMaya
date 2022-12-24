@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638694817445",
+    "project_id": "vitmaya",
+    "storage_bucket": "vitmaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638694817445:android:3061046570bce2d459574c",
+        "android_client_info": {
+          "package_name": "com.example.vittamaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638694817445-knt3550jf0no0hd6h4gh9uj7v9tsstpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1SAjivFOJJuDh6pD1KqtbI1VtsD7xA8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638694817445-knt3550jf0no0hd6h4gh9uj7v9tsstpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
