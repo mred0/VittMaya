@@ -1,6 +1,11 @@
-# vittamaya
+# VittMaya
 
-A new Flutter project.
+I am trying to make Personal Time And Finace Managment App With Bloc.
+Which Can Help you in Daily Life to Maintain Your Finance -
+And As Well With To-Do Feature You can Organize Your Day.
+
+If you have any Suggestion please share.
+
 
 ## Getting Started
 
