@@ -1,9 +1,11 @@
+import 'package:vittamaya/firebase_options.dart';
+import 'package:vittamaya/screens/demo.dart';
+import 'package:vittamaya/screens/welcome_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:vittamaya/firebase_options.dart';
-import 'package:vittamaya/screens/welcome_screen.dart';
+
 import 'bloc/app_bloc.dart';
 
 Future<void> main() async {
@@ -11,10 +13,10 @@ Future<void> main() async {
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
     // options: const FirebaseOptions(
-    // apiKey: "AIzaSyC1SAjivFOJJuDh6pD1KqtbI1VtsD7xA8M",
-    // // appId: "1:638694817445:android:3061046570bce2d459574c",
-    // messagingSenderId: "638694817445",
-    // projectId: "vitmaya",
+    // apiKey: " ",
+    // appId: " ",
+    // messagingSenderId: " ",
+    // projectId: " ",
 // ),
   );
   runApp(const MyApp());
@@ -38,7 +40,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const WelcomeScreen(),
+        home: const Demo(),
       ),
     );
   }

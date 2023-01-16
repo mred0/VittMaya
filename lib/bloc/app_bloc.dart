@@ -1,3 +1,6 @@
+import 'package:vittamaya/auth/auth.dart';
+import 'package:vittamaya/auth/auth_error.dart';
+
 import 'dart:developer';
 import 'dart:ui';
 
@@ -6,8 +9,8 @@ import 'package:equatable/equatable.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:vittamaya/auth/auth.dart';
-import 'package:vittamaya/auth/auth_error.dart';
+
+
 
 part 'app_event.dart';
 part 'app_state.dart';
